@@ -288,4 +288,8 @@ __pycache__/
 *.btp.cs
 *.btm.cs
 *.odx.cs
+<<<<<<< Updated upstream
 *.xsd.cs
+=======
+*.xsd.cs
+>>>>>>> Stashed changes

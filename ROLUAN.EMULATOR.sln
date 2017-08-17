@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 15.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roluan.Emulator.Common", "Roluan.Emulator.Common\Roluan.Emulator.Common.csproj", "{9E39A7B1-E4E7-4A50-B42D-4ECAECEDE490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roluan.Emulator.Mainboard", "Roluan.Emulator.Mainboard\Roluan.Emulator.Mainboard.csproj", "{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{9E39A7B1-E4E7-4A50-B42D-4ECAECEDE490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E39A7B1-E4E7-4A50-B42D-4ECAECEDE490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E39A7B1-E4E7-4A50-B42D-4ECAECEDE490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
