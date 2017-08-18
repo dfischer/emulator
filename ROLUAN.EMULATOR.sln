@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roluan.Emulator.Common", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roluan.Emulator.Mainboard", "Roluan.Emulator.Mainboard\Roluan.Emulator.Mainboard.csproj", "{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roluan.Emulator.Processor", "Roluan.Emulator.Processor\Roluan.Emulator.Processor.csproj", "{30584573-9D36-4AA5-B3B9-977415053EAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A16F7C5-9389-4D69-8D18-C57ECE5515DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30584573-9D36-4AA5-B3B9-977415053EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30584573-9D36-4AA5-B3B9-977415053EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30584573-9D36-4AA5-B3B9-977415053EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30584573-9D36-4AA5-B3B9-977415053EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
